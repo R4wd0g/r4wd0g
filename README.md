@@ -1,4 +1,3 @@
-### Welcome to my profile 👋
 ![r4wd0g](https://github-readme-stats-r4wd0gs-projects.vercel.app/api?username=r4wd0g&show_icons=true&theme=ambient_gradient&rank_icon=github&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-r4wd0gs-projects.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
